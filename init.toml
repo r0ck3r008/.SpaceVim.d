@@ -44,6 +44,9 @@ name = "lang#go"
 name = "lang#latex"
 
 [[layers]]
+name = "lang#c"
+
+[[layers]]
 name = "format"
 
 [[layers]]
