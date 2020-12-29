@@ -47,6 +47,12 @@ name = "lang#latex"
 name = "lang#c"
 
 [[layers]]
+name = "lang#haskell"
+
+[[layers]]
+name = "lang#markdown"
+
+[[layers]]
 name = "format"
 
 [[layers]]
